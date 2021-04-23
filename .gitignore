@@ -4,7 +4,7 @@
 /node_modules
 /.pnp
 .pnp.js
-/src/App.js
+chat-app/src/App.js
 /src/App
 /App.js
 
